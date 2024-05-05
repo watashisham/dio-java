@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "sistema-smart-tv/src",
+        "MinhaClasse/src"
+    ],
+    "java.project.referencedLibraries": []
+}
